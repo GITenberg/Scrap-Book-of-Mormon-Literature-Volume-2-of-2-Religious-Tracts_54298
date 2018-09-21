@@ -16,13 +16,13 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
   - agent_name: Rich, Ben. E. (Benjamin Erastus)
     alias: Rich, Benjamin Erastus
-    birthdate: &id001 1855
+    birthdate: 1855
     deathdate: 1913
     gutenberg_agent_id: '45290'
     url: http://www.gutenberg.org/2009/agents/45290
   - agent_name: Whitney, Orson F. (Orson Ferguson)
     alias: Whitney, O. F.
-    birthdate: *id001
+    birthdate: 1855
     deathdate: 1931
     gutenberg_agent_id: '37603'
     url: http://www.gutenberg.org/2009/agents/37603
@@ -33,7 +33,12 @@ contributor:
     gutenberg_agent_id: '42981'
     url: http://www.gutenberg.org/2009/agents/42981
     wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
+covers:
+- cover_type: archival
+  image_path: 54298-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54298#Scrap-Book-of-Mormon-Literature-Volume-2-of-2-Religious-Tracts
 gutenberg_issued: '2017-03-08'
 gutenberg_type: Text
 identifiers:
