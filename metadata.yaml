@@ -1,0 +1,52 @@
+_repo: Scrap-Book-of-Mormon-Literature-Volume-2-of-2-Religious-Tracts_54298
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Smith, Joseph Fielding
+    birthdate: 1876
+    deathdate: 1972
+    gutenberg_agent_id: '44181'
+    url: http://www.gutenberg.org/2009/agents/44181
+  - agent_name: Roberts, B. H. (Brigham Henry)
+    alias: Roberts, Brigham Henry
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37629'
+    url: http://www.gutenberg.org/2009/agents/37629
+    wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+  - agent_name: Rich, Ben. E. (Benjamin Erastus)
+    alias: Rich, Benjamin Erastus
+    birthdate: &id001 1855
+    deathdate: 1913
+    gutenberg_agent_id: '45290'
+    url: http://www.gutenberg.org/2009/agents/45290
+  - agent_name: Whitney, Orson F. (Orson Ferguson)
+    alias: Whitney, O. F.
+    birthdate: *id001
+    deathdate: 1931
+    gutenberg_agent_id: '37603'
+    url: http://www.gutenberg.org/2009/agents/37603
+    wikipedia: http://en.wikipedia.org/wiki/Orson_F._Whitney
+  - agent_name: Pratt, Orson
+    birthdate: 1811
+    deathdate: 1881
+    gutenberg_agent_id: '42981'
+    url: http://www.gutenberg.org/2009/agents/42981
+    wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
+description: ''
+gutenberg_issued: '2017-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcsh 'Mormons'
+- !lcc 'BX'
+- GITenberg
+title: Scrap Book of Mormon Literature, Volume 2 (of 2). Religious Tracts
+url: http://www.gutenberg.org/ebooks/54298
